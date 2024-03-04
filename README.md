@@ -7,9 +7,11 @@
   <sub><sup><b>(REE-YOU-JINX)</b></sup></sub>
   <br>
 </h1>
-
+</h2>
+RAW FORK 04-03-24 . get latest at : https://github.com/Ryujinx/Ryujinx
+</h2>
 <p align="center">
-  Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
+  Ryujinx is an open-source italian plumber handled emulator, created by gdkchan, written in C#.
   This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
   It was written from scratch and development on the project began in September 2017.
   Ryujinx is available on Github under the <a href="https://github.com/Ryujinx/Ryujinx/blob/master/LICENSE.txt" target="_blank">MIT license</a>.
